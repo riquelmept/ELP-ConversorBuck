@@ -1,45 +1,44 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Projeto Conversor CC-CC Buck</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-
-        h1 {
-            color: #333;
-        }
-
-        p {
-            line-height: 1.5;
-        }
-
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Projeto de Eletrônica de Potência</title>
 </head>
 <body>
-    <h1>Projeto Conversor CC-CC Buck</h1>
-    <p>Este é o repositório do projeto do Conversor CC-CC Buck. O objetivo deste projeto foi modelar matematicamente e projetar um controlador PID para o conversor, visando melhorar seu desempenho e estabilidade.</p>
+  <h1>Projeto de Eletrônica de Potência</h1>
+  <p>Neste repositório, você encontrará todos os arquivos relacionados ao projeto de Eletrônica de Potência desenvolvido pelo nosso grupo.</p>
 
-    <h2>Conteúdo do Repositório</h2>
-    <ul>
-        <li><a href="relatorio.pdf">Relatório do Projeto</a></li>
-        <li><a href="codigo_matlab.m">Código MATLAB para Projeto do Controlador PID</a></li>
-        <li><a href="simulacoes_psims">Simulações no ambiente PSIM</a></li>
-    </ul>
+  <h2>Descrição do Projeto</h2>
+  <p>O objetivo deste projeto foi realizar a modelagem e o projeto de um conversor CC-CC Buck, bem como a implementação de um compensador PID para melhorar seu desempenho.</p>
 
-    <h2>Resultados</h2>
-    <p>Após a modelagem matemática e o projeto do compensador PID, foram realizadas simulações em malha fechada para avaliar o desempenho do sistema. Os resultados demonstraram uma melhoria significativa em relação ao sistema não compensado, com redução do erro, ultrapassagem percentual e tempo de assentamento.</p>
+  <h2>Conteúdo do Repositório</h2>
+  <ul>
+    <li><strong>Modelagem Matemática:</strong> Pasta contendo os arquivos com a modelagem matemática do conversor CC-CC.</li>
+    <li><strong>Compensador PID:</strong> Pasta contendo os cálculos e códigos em Matlab para o projeto do compensador PID.</li>
+    <li><strong>Simulações:</strong> Pasta contendo os códigos em Matlab e o circuito controlado no ambiente PSIM para as simulações de desempenho em malha fechada.</li>
+    <li><strong>Relatório:</strong> Arquivo PDF contendo o relatório completo do projeto com os resultados e conclusões.</li>
+  </ul>
 
-    <h2>Conclusão</h2>
-    <p>O projeto do Conversor CC-CC Buck apresentou resultados satisfatórios, demonstrando a importância do controle PID no aprimoramento do desempenho do circuito. Os ajustes realizados no compensador permitiram melhorar os parâmetros de desempenho, garantindo um controle mais preciso e estável.</p>
+  <h2>Resultados</h2>
+  <p>Após os ajustes no compensador PID, obtivemos uma melhoria significativa no desempenho do circuito. O erro foi reduzido, assim como a ultrapassagem percentual e o tempo de assentamento, atendendo aos critérios de desempenho estabelecidos.</p>
 
-    <p>Para mais detalhes, consulte o relatório do projeto e os arquivos disponíveis neste repositório.</p>
+  <h2>Como Executar as Simulações</h2>
+  <ol>
+    <li>Abra o ambiente PSIM;</li>
+    <li>Carregue o arquivo do circuito de simulação;</li>
+    <li>Execute a simulação em malha fechada com o compensador PID ativado;</li>
+    <li>Analise os resultados obtidos e compare com a simulação sem o compensador para verificar a melhoria de desempenho.</li>
+  </ol>
+
+  <h2>Autores</h2>
+  <ul>
+    <li>Nome do Aluno 1</li>
+    <li>Nome do Aluno 2</li>
+  </ul>
+
+  <h2>Referências</h2>
+  <ul>
+    <li>Inserir aqui as referências utilizadas para a realização do projeto.</li>
+  </ul>
 </body>
 </html>
