@@ -31,8 +31,8 @@
 
   <h2>Autores</h2>
   <ul>
-    <li>Nome do Aluno 1</li>
-    <li>Nome do Aluno 2</li>
+    <li>Patrick Coelho </li>
+    <li>Keldson Alves</li>
   </ul>
 
   <h2>Referências</h2>
