@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Projeto de Eletrônica de Potência</title>
 </head>
 <body>
   <h1>Projeto de Eletrônica de Potência</h1>
