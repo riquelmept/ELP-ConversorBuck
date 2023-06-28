@@ -32,7 +32,6 @@
         <li><a href="relatorio.pdf">Relatório do Projeto</a></li>
         <li><a href="codigo_matlab.m">Código MATLAB para Projeto do Controlador PID</a></li>
         <li><a href="simulacoes_psims">Simulações no ambiente PSIM</a></li>
-        <li><a href="dados_experimentais.xlsx">Dados Experimentais</a></li>
     </ul>
 
     <h2>Resultados</h2>
